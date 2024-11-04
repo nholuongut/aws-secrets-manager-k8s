@@ -1,0 +1,3 @@
+version: "1"
+domain:nholuongut.net
+repo: github.com/nholuongut/aws-secrets-manager-k8s
